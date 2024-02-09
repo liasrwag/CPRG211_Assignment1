@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "98ygacnPq3gYc6Gm50zQtHr413XMZoTJV633O2yGJMsM7C1L4eZt5BqvIUlqQRLBjOFdHjGR9yTx5e1ZVOs7UA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\whr\\Documents\\24winter\\oop2\\Assignment Classes and Inheritance attached files Feb 4, 2024 1058 PM\\Assignment1Skeleton\\Assignment1Skeleton\\A1ModernAppliances\\A1ModernAppliances\\ModernAppliances.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\whr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\whr\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\whr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\whr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
